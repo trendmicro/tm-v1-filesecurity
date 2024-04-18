@@ -1,0 +1,3 @@
+[submodule "tm-v1-fs-python-sdk"]
+	path = tm-v1-fs-python-sdk
+	url = https://github.com/trendmicro/tm-v1-fs-python-sdk.git
